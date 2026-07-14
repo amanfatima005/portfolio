@@ -11,7 +11,7 @@ function Contact() {
 
       <div className="contact-links">
         <a href="mailto:aman.fatimah005@gmail.com" className="contact-link">
-          📧 aman.fatimah005@gmail.com
+          📧 saeedsaim427@gmail.com
         </a>
         <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer" className="contact-link">
           💼 https://www.linkedin.com/in/aman-fatima-b024b331a
